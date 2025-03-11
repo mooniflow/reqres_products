@@ -13,7 +13,7 @@ environment {
     GITHUB_CREDENTIALS_ID = 'Github-Cred'
     GITHUB_REPO = 'github.com/mooniflow/reqres_products.git'
     GITHUB_BRANCH = 'master' // 업로드할 브랜치
-    SERVICES = 'product'22
+    SERVICES = 'product'
 }
 
     stages {
